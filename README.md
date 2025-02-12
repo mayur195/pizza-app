@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Pizza Menu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React project for displaying a pizza menu. It includes a simple setup with a main `App` component.
+
+## Getting Started
+
+To get started with this project, clone the repository and install the dependencies:
+
+```bash
+git clone <your-repo-url>
+cd pizza-menu
+npm install
+```
 
 ## Available Scripts
 
@@ -68,3 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+
+This project is licensed under the MIT License.
